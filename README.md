@@ -1,3 +1,1 @@
-# Pemrograman-Berbasis-Web
-Nama : Dina Nabil Ayyasy  
-NPM  : 2310631250013
+#Dalam file ini terdapat project membuat website portofolio yang berisi data diri, project yang pernah dilakukan, prestasi, dan juga informasi kontak saya.  Project ini dibuat guna memenuhi tugas praktek Ujian Tengah Semester (UTS) Pemrograman Berbasis Web
